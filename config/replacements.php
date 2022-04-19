@@ -369,4 +369,7 @@ return [
     'zf-oauth2-' => 'zf-oauth2-', // api-skeletons OAuth2-related packages
     'ZF\\OAuth2\\Client' => 'ZF\\OAuth2\\Client', // api-skeletons/zf-oauth2-client
     'ZF\\OAuth2\\Doctrine' => 'ZF\\OAuth2\\Doctrine', // api-skeletons/zf-oauth2-doctrine
+
+    'KrumediaZendForm' => 'KrumediaZendForm',
+    'kruZendForm' => 'kruZendForm',
 ];
